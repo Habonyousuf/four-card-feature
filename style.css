@@ -56,10 +56,15 @@ p {
 
 .card-box {
     width: 350px;
-    box-shadow: 2px 3px 16px var(--Very-Dark-Blue);
+    box-shadow: 1px 3px  7px var(--Very-Dark-Blue);
     margin: 30px;
-    padding: 2rem ;
+    padding: 1rem ;
     border-radius: 0.6rem;
+}
+.card-box h1{
+    font-size: 1.3rem;
+ font-weight: 600;
+ color: var(--Very-Dark-Blue);
 }
 
 .card-down .card-box {
